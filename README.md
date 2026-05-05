@@ -11,7 +11,7 @@
   <a href="mailto:gvinay90@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://vinay-gupta-engineertgt9m4z.gamma.site/">
+  <a href="https://vinay-gupta-engineer-tgt9m4z.gamma.site/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -90,12 +90,12 @@ I enjoy working close to the infrastructure layer — solving performance bottle
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gvinay90&show_icons=true&hide_border=true&theme=default&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gvinay90&layout=compact&hide_border=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gvinay90&show_icons=true&hide_border=true&theme=default&count_private=true&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gvinay90&layout=compact&hide_border=true&theme=default&cache_seconds=1800" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gvinay90&hide_border=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gvinay90&hide_border=true" />
 </p>
 
 ---
@@ -114,4 +114,4 @@ I enjoy working close to the infrastructure layer — solving performance bottle
 
 I'm currently open to **Backend Engineer / SDE** roles focused on distributed systems, cloud-native infrastructure, or high-throughput backend platforms.
 
-📬 [gvinay90@gmail.com](mailto:gvinay90@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vinaygupta26/) · [Portfolio](https://vinay-gupta-engineertgt9m4z.gamma.site/)
+📬 [gvinay90@gmail.com](mailto:gvinay90@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vinaygupta26/) · [Portfolio](https://vinay-gupta-engineer-tgt9m4z.gamma.site/)
