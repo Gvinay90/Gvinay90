@@ -87,17 +87,14 @@ I enjoy working close to the infrastructure layer — solving performance bottle
 
 ---
 
-## GitHub stats
-
+## GitHub activity
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gvinay90&show_icons=true&hide_border=true&theme=default&count_private=true&cache_seconds=1800" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gvinay90&layout=compact&hide_border=true&theme=default&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gvinay90&hide_border=true&theme=minimal&area=true&area_color=00ADD8&color=444444&line=00ADD8&point=00ADD8" width="100%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gvinay90&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gvinay90&theme=default" width="100%" />
 </p>
-
 ---
 
 ## Certifications
