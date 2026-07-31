@@ -20,7 +20,7 @@
 
 ## About me
 
-I'm a backend-focused Software Engineer with **4+ years** of experience building distributed, cloud-native systems. As a Founding Engineer at **360 World, Inc.**, I designed and shipped **13+ production-grade microservices** and **47 REST/gRPC APIs**, with systems load-tested for **1K+ req/sec** and built for horizontal scalability on GCP and Kubernetes.
+I'm a backend-focused Software Engineer with **4+ years** of experience building distributed, cloud-native microservices in Go and Java (Spring Boot), processing millions of events per day on GCP and AWS. As a Software Engineer at **360 World, Inc.**, I've owned architecture for **9+ microservices** and documented **20+ REST/gRPC endpoints**, cutting API latency by up to **40%** and accelerating release velocity through automated CI/CD.
 
 I enjoy working close to the infrastructure layer — solving performance bottlenecks, designing reliable event-driven architectures, and building systems that scale without breaking.
 
@@ -48,6 +48,10 @@ I enjoy working close to the infrastructure layer — solving performance bottle
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat&logo=swagger&logoColor=white)
+![Protobuf](https://img.shields.io/badge/Protobuf-374151?style=flat)
+![Saga Pattern](https://img.shields.io/badge/Saga_Pattern-374151?style=flat)
+![Event-Driven](https://img.shields.io/badge/Event--Driven_Architecture-374151?style=flat)
 
 **Datastores & Caching**
 
@@ -64,6 +68,7 @@ I enjoy working close to the infrastructure layer — solving performance bottle
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Bazel](https://img.shields.io/badge/Bazel-43A047?style=flat&logo=bazel&logoColor=white)
 
 **Observability & Security**
 
@@ -71,6 +76,23 @@ I enjoy working close to the infrastructure layer — solving performance bottle
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2_/_JWT-000000?style=flat&logo=auth0&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=flat&logo=prometheus&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-374151?style=flat)
+![TLS](https://img.shields.io/badge/TLS-374151?style=flat)
+
+**Testing & CI/CD**
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-374151?style=flat)
+![LocalStack](https://img.shields.io/badge/LocalStack-374151?style=flat&logo=localstack&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+**AI & ML Integration**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Integration-374151?style=flat)
+![Embeddings](https://img.shields.io/badge/Embedding_Models-374151?style=flat)
+![Semantic Classification](https://img.shields.io/badge/Semantic_Classification-374151?style=flat)
 
 ---
 
@@ -101,7 +123,7 @@ I enjoy working close to the infrastructure layer — solving performance bottle
 
 - 🏅 AWS Cloud Technical Essentials (March 2026)
 - 🏅 Microsoft Azure Fundamentals AZ-900
-- 🏅 Oracle Cloud Infrastructure Foundations 2021 Associate
+- 🏅 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 - 🏅 HackerRank Problem Solving
 - 🏅 HIPAA Certified, Accountable HQ (December 2025)
 
